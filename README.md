@@ -15,4 +15,9 @@ Functions:
 * Shrink Image (Two ways)
 * Enlarge Image
 
+## Lab3
+
+Functions:
+
+* Histogram Equalization
 
