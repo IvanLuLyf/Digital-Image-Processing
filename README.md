@@ -21,3 +21,15 @@ Functions:
 
 * Histogram Equalization
 
+## Using
+
+* In Windows
+
+> Download or Clone Repo
+> Using Visual Studio or Clion Complie
+
+* In Ubuntu
+
+> You Should Complie This Repo in 32Bits
+You Should Run ```sudo apt-get install g++-multilib``` first.
+
